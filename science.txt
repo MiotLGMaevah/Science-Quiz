@@ -1,0 +1,24 @@
+which animal lays eggs?
+a.Dog
+b.Cat
+c.Duck
+d.Sheep
+C
+what part of the body helps you move?
+a.eyes
+b.lungs
+c.pancreas
+d.muscles
+D
+What is the boiling point of water?
+a.25C
+b.50C
+c.75C
+d.100C
+D
+Which is the largest land animal?
+a.Rhinoceros
+b.Tiger
+c.Lion 
+d.Elephant
+DX
